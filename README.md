@@ -1,4 +1,4 @@
-#🎙️ Speech-to-Text App Using Python
+# 🎙️Speech-to-Text App Using Python
 
 A simple and efficient Speech-to-Text (STT) application built with Python and the SpeechRecognition library. This project captures live microphone input and converts spoken words into written text using Google's speech recognition API.
 
